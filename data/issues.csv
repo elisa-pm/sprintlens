@@ -1,0 +1,170 @@
+sprint_id,issue_id,type,points,assignee,started,completed,blocked_days,carried_in,added_mid_sprint,status
+1,SL-101,Story,5,Blake,2025-01-09,,0,False,False,Carried over
+1,SL-102,Story,3,Blake,2025-01-14,,2,False,True,Carried over
+1,SL-103,Story,3,Finley,2025-01-12,,4,False,True,Carried over
+1,SL-104,Task,8,Finley,2025-01-10,,0,False,False,Carried over
+1,SL-105,Bug,5,Avery,2025-01-07,2025-01-13,1,False,False,Done
+1,SL-106,Task,3,Devon,2025-01-11,2025-01-18,0,False,True,Done
+1,SL-107,Task,3,Finley,2025-01-10,,0,False,False,Carried over
+1,SL-108,Bug,3,Casey,2025-01-06,2025-01-12,0,False,False,Done
+1,SL-109,Task,5,Finley,2025-01-10,2025-01-19,0,False,False,Done
+1,SL-110,Story,1,Emery,2025-01-11,,4,False,True,Carried over
+1,SL-111,Story,2,Avery,2025-01-09,2025-01-14,1,False,False,Done
+2,SL-101,Story,5,Blake,2025-01-09,2025-01-27,0,True,False,Done
+2,SL-102,Story,3,Blake,2025-01-14,,0,True,False,Carried over
+2,SL-103,Story,3,Finley,2025-01-12,2025-01-23,0,True,False,Done
+2,SL-104,Task,8,Finley,2025-01-10,2025-01-26,0,True,False,Done
+2,SL-107,Task,3,Finley,2025-01-10,2025-01-22,0,True,False,Done
+2,SL-110,Story,1,Emery,2025-01-11,2025-01-22,2,True,False,Done
+2,SL-112,Bug,1,Emery,2025-01-22,,0,False,False,Carried over
+2,SL-113,Story,2,Finley,2025-01-24,2025-01-31,0,False,False,Done
+2,SL-114,Task,2,Blake,2025-01-25,2025-02-01,1,False,True,Done
+2,SL-115,Task,2,Devon,2025-01-29,,1,False,True,Carried over
+2,SL-116,Story,1,Avery,2025-01-24,2025-01-30,0,False,False,Done
+2,SL-117,Story,3,Casey,2025-01-26,,0,False,True,Carried over
+2,SL-118,Story,3,Finley,2025-01-24,,0,False,False,Carried over
+3,SL-102,Story,3,Blake,2025-01-14,2025-02-12,0,True,False,Done
+3,SL-112,Bug,1,Emery,2025-01-22,2025-02-05,0,True,False,Done
+3,SL-115,Task,2,Devon,2025-01-29,,0,True,False,Carried over
+3,SL-117,Story,3,Casey,2025-01-26,2025-02-07,0,True,False,Done
+3,SL-118,Story,3,Finley,2025-01-24,2025-02-10,0,True,False,Done
+3,SL-119,Story,3,Devon,2025-02-10,,2,False,True,Carried over
+3,SL-120,Bug,1,Finley,2025-02-03,2025-02-12,0,False,False,Done
+3,SL-121,Task,3,Devon,2025-02-09,2025-02-12,0,False,True,Done
+3,SL-122,Story,3,Emery,2025-02-07,2025-02-14,1,False,False,Done
+3,SL-123,Story,3,Devon,2025-02-11,,0,False,True,Carried over
+3,SL-124,Story,5,Finley,2025-02-12,,3,False,True,Carried over
+3,SL-125,Task,2,Blake,2025-02-05,2025-02-13,0,False,False,Done
+3,SL-126,Story,5,Casey,2025-02-04,2025-02-08,0,False,False,Done
+3,SL-127,Story,2,Devon,2025-02-06,2025-02-11,0,False,False,Done
+3,SL-128,Bug,5,Blake,2025-02-04,,0,False,False,Carried over
+4,SL-115,Task,2,Devon,2025-01-29,,0,True,False,Carried over
+4,SL-119,Story,3,Devon,2025-02-10,2025-02-22,1,True,False,Done
+4,SL-123,Story,3,Devon,2025-02-11,2025-02-24,0,True,False,Done
+4,SL-124,Story,5,Finley,2025-02-12,2025-02-18,0,True,False,Done
+4,SL-128,Bug,5,Blake,2025-02-04,2025-02-25,0,True,False,Done
+4,SL-129,Story,5,Finley,2025-02-18,2025-03-01,2,False,False,Done
+4,SL-130,Story,3,Avery,2025-02-20,,0,False,False,Carried over
+4,SL-131,Bug,3,Casey,2025-02-21,,0,False,False,Carried over
+4,SL-132,Story,5,Finley,2025-02-18,,0,False,False,Carried over
+4,SL-133,Story,5,Avery,2025-02-17,2025-02-27,0,False,False,Done
+4,SL-134,Task,5,Casey,2025-02-21,,4,False,False,Carried over
+5,SL-115,Task,2,Devon,2025-01-29,2025-03-07,2,True,False,Done
+5,SL-130,Story,3,Avery,2025-02-20,2025-03-12,0,True,False,Done
+5,SL-131,Bug,3,Casey,2025-02-21,2025-03-12,0,True,False,Done
+5,SL-132,Story,5,Finley,2025-02-18,2025-03-11,3,True,False,Done
+5,SL-134,Task,5,Casey,2025-02-21,2025-03-09,0,True,False,Done
+5,SL-135,Story,2,Emery,2025-03-04,2025-03-12,0,False,False,Done
+5,SL-136,Story,3,Avery,2025-03-07,2025-03-11,0,False,False,Done
+5,SL-137,Story,3,Avery,2025-03-07,,0,False,False,Carried over
+5,SL-138,Story,8,Avery,2025-03-06,,0,False,False,Carried over
+5,SL-139,Story,3,Devon,2025-03-04,,2,False,False,Carried over
+5,SL-140,Story,3,Blake,2025-03-06,2025-03-12,2,False,False,Done
+5,SL-141,Story,1,Devon,2025-03-06,,0,False,False,Carried over
+5,SL-142,Story,5,Avery,2025-03-05,2025-03-09,0,False,False,Done
+6,SL-137,Story,3,Avery,2025-03-07,,0,True,False,Carried over
+6,SL-138,Story,8,Avery,2025-03-06,,3,True,False,Carried over
+6,SL-139,Story,3,Devon,2025-03-04,2025-03-23,0,True,False,Done
+6,SL-141,Story,1,Devon,2025-03-06,2025-03-23,0,True,False,Done
+6,SL-143,Story,2,Casey,2025-03-22,2025-03-26,0,False,True,Done
+6,SL-144,Bug,2,Finley,2025-03-25,2025-03-29,0,False,True,Done
+6,SL-145,Story,1,Emery,2025-03-17,2025-03-20,0,False,False,Done
+6,SL-146,Story,2,Avery,2025-03-21,2025-03-26,0,False,False,Done
+6,SL-147,Task,5,Avery,2025-03-18,2025-03-24,0,False,False,Done
+6,SL-148,Task,3,Avery,2025-03-18,2025-03-29,0,False,False,Done
+6,SL-149,Story,2,Blake,2025-03-20,2025-03-26,0,False,False,Done
+6,SL-150,Bug,1,Blake,2025-03-17,2025-03-20,0,False,False,Done
+6,SL-151,Story,2,Blake,2025-03-20,2025-03-25,0,False,False,Done
+6,SL-152,Story,1,Avery,2025-03-17,2025-03-24,0,False,False,Done
+6,SL-153,Story,2,Emery,2025-03-20,2025-03-26,0,False,False,Done
+6,SL-154,Story,1,Finley,2025-03-19,2025-03-25,0,False,False,Done
+6,SL-155,Story,2,Emery,2025-03-20,2025-03-23,0,False,False,Done
+6,SL-156,Bug,3,Finley,2025-03-20,2025-03-23,0,False,False,Done
+6,SL-157,Story,1,Casey,2025-03-19,2025-03-28,4,False,False,Done
+7,SL-137,Story,3,Avery,2025-03-07,2025-04-08,0,True,False,Done
+7,SL-138,Story,8,Avery,2025-03-06,,4,True,False,Carried over
+7,SL-158,Story,2,Emery,2025-04-03,,0,False,False,Carried over
+7,SL-159,Bug,3,Blake,2025-04-02,2025-04-10,0,False,False,Done
+7,SL-160,Story,1,Casey,2025-04-01,2025-04-06,0,False,False,Done
+7,SL-161,Task,2,Emery,2025-04-04,2025-04-08,0,False,False,Done
+7,SL-162,Bug,2,Casey,2025-04-04,2025-04-07,0,False,False,Done
+7,SL-163,Task,3,Finley,2025-04-01,2025-04-09,0,False,False,Done
+7,SL-164,Bug,1,Casey,2025-03-31,2025-04-09,3,False,False,Done
+7,SL-165,Story,2,Casey,2025-04-04,2025-04-08,0,False,False,Done
+7,SL-166,Task,2,Blake,2025-04-04,2025-04-11,2,False,True,Done
+7,SL-167,Story,2,Casey,2025-04-02,,0,False,False,Carried over
+7,SL-168,Task,1,Avery,2025-04-01,2025-04-03,0,False,False,Done
+7,SL-169,Task,5,Devon,2025-04-04,2025-04-11,0,False,False,Done
+7,SL-170,Story,2,Blake,2025-04-02,2025-04-06,0,False,False,Done
+7,SL-171,Story,3,Finley,2025-04-04,2025-04-12,0,False,False,Done
+7,SL-172,Story,2,Avery,2025-04-01,,0,False,False,Carried over
+8,SL-138,Story,8,Avery,2025-03-06,2025-04-22,0,True,False,Done
+8,SL-158,Story,2,Emery,2025-04-03,2025-04-18,0,True,False,Done
+8,SL-167,Story,2,Casey,2025-04-02,,0,True,False,Carried over
+8,SL-172,Story,2,Avery,2025-04-01,2025-04-22,0,True,False,Done
+8,SL-173,Story,3,Finley,2025-04-17,2025-04-21,0,False,False,Done
+8,SL-174,Story,5,Finley,2025-04-14,2025-04-19,0,False,False,Done
+8,SL-175,Task,5,Devon,2025-04-14,2025-04-20,0,False,False,Done
+8,SL-176,Story,3,Avery,2025-04-14,2025-04-20,0,False,False,Done
+8,SL-177,Task,2,Blake,2025-04-17,2025-04-22,0,False,False,Done
+8,SL-178,Bug,2,Devon,2025-04-17,2025-04-22,0,False,False,Done
+8,SL-179,Story,5,Devon,2025-04-16,2025-04-19,0,False,False,Done
+8,SL-180,Story,2,Blake,2025-04-14,2025-04-23,4,False,False,Done
+8,SL-181,Story,3,Avery,2025-04-17,2025-04-26,2,False,False,Done
+8,SL-182,Story,2,Blake,2025-04-15,2025-04-19,0,False,False,Done
+9,SL-167,Story,2,Casey,2025-04-02,,0,True,False,Carried over
+9,SL-183,Bug,1,Avery,2025-05-01,2025-05-05,0,False,False,Done
+9,SL-184,Bug,3,Finley,2025-04-28,2025-05-02,0,False,False,Done
+9,SL-185,Bug,1,Devon,2025-04-28,2025-05-02,0,False,False,Done
+9,SL-186,Story,3,Devon,2025-05-01,2025-05-04,0,False,False,Done
+9,SL-187,Task,2,Finley,2025-04-29,2025-05-04,0,False,False,Done
+9,SL-188,Bug,8,Devon,2025-05-02,2025-05-09,0,False,False,Done
+9,SL-189,Story,2,Finley,2025-04-28,2025-05-01,0,False,False,Done
+9,SL-190,Task,3,Finley,2025-04-30,2025-05-04,0,False,False,Done
+9,SL-191,Task,1,Blake,2025-05-01,2025-05-05,0,False,False,Done
+9,SL-192,Bug,3,Blake,2025-04-29,2025-05-03,0,False,False,Done
+9,SL-193,Task,3,Avery,2025-04-28,2025-05-04,0,False,False,Done
+9,SL-194,Story,1,Devon,2025-04-28,2025-04-30,0,False,False,Done
+9,SL-195,Task,3,Emery,2025-04-30,2025-05-04,0,False,False,Done
+9,SL-196,Bug,5,Devon,2025-04-29,,0,False,False,Carried over
+10,SL-167,Story,2,Casey,2025-04-02,2025-05-21,0,True,False,Done
+10,SL-196,Bug,5,Devon,2025-04-29,2025-05-21,0,True,False,Done
+10,SL-197,Bug,3,Avery,2025-05-15,2025-05-25,0,False,False,Done
+10,SL-198,Story,2,Devon,2025-05-15,2025-05-21,2,False,False,Done
+10,SL-199,Story,3,Casey,2025-05-15,2025-05-21,0,False,False,Done
+10,SL-200,Story,5,Finley,2025-05-14,2025-05-23,1,False,False,Done
+10,SL-201,Story,3,Avery,2025-05-13,,0,False,False,Carried over
+10,SL-202,Task,5,Emery,2025-05-15,2025-05-22,2,False,False,Done
+10,SL-203,Story,8,Finley,2025-05-14,2025-05-22,0,False,False,Done
+10,SL-204,Story,1,Emery,2025-05-15,2025-05-18,0,False,False,Done
+10,SL-205,Story,5,Casey,2025-05-16,2025-05-23,0,False,False,Done
+11,SL-201,Story,3,Avery,2025-05-13,,0,True,False,Carried over
+11,SL-206,Task,1,Finley,2025-05-28,2025-06-01,0,False,False,Done
+11,SL-207,Story,3,Blake,2025-05-30,2025-06-07,0,False,False,Done
+11,SL-208,Bug,2,Casey,2025-05-26,2025-06-01,0,False,False,Done
+11,SL-209,Task,3,Blake,2025-05-28,2025-06-03,0,False,False,Done
+11,SL-210,Story,2,Casey,2025-05-29,2025-06-02,0,False,False,Done
+11,SL-211,Story,3,Emery,2025-05-27,2025-05-30,0,False,False,Done
+11,SL-212,Story,3,Avery,2025-05-28,2025-06-02,0,False,False,Done
+11,SL-213,Task,5,Blake,2025-05-27,2025-06-05,0,False,False,Done
+11,SL-214,Story,3,Devon,2025-05-28,2025-05-30,0,False,False,Done
+11,SL-215,Task,1,Avery,2025-05-29,2025-05-30,0,False,False,Done
+11,SL-216,Story,2,Emery,2025-06-03,,2,False,True,Carried over
+11,SL-217,Task,2,Blake,2025-05-28,2025-06-01,0,False,False,Done
+11,SL-218,Story,5,Blake,2025-05-30,2025-06-05,0,False,False,Done
+11,SL-219,Bug,5,Emery,2025-05-26,2025-06-03,0,False,False,Done
+12,SL-201,Story,3,Avery,2025-05-13,2025-06-16,0,True,False,Done
+12,SL-216,Story,2,Emery,2025-06-03,2025-06-11,0,True,False,Done
+12,SL-220,Bug,5,Devon,2025-06-12,2025-06-17,0,False,False,Done
+12,SL-221,Story,3,Finley,2025-06-16,2025-06-20,0,False,True,Done
+12,SL-222,Story,5,Emery,2025-06-09,,0,False,False,Carried over
+12,SL-223,Bug,3,Avery,2025-06-10,2025-06-14,0,False,False,Done
+12,SL-224,Task,2,Devon,2025-06-16,,0,False,True,Carried over
+12,SL-225,Story,1,Avery,2025-06-12,2025-06-15,0,False,False,Done
+12,SL-226,Story,2,Emery,2025-06-13,,4,False,False,Carried over
+12,SL-227,Story,5,Casey,2025-06-12,2025-06-22,4,False,False,Done
+12,SL-228,Story,2,Emery,2025-06-13,2025-06-16,0,False,False,Done
+12,SL-229,Bug,3,Emery,2025-06-09,2025-06-14,0,False,False,Done
+12,SL-230,Story,2,Blake,2025-06-10,2025-06-12,0,False,False,Done
+12,SL-231,Story,2,Blake,2025-06-09,2025-06-13,0,False,False,Done
+12,SL-232,Story,3,Emery,2025-06-10,2025-06-13,0,False,False,Done
