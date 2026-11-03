@@ -1,5 +1,7 @@
 # SprintLens
 
+**Live demo:** https://sprintlens.streamlit.app/
+
 Sprint health metrics and AI-assisted retrospective analysis for Scrum teams.
 
 SprintLens answers two questions a Scrum Master is asked every sprint:
